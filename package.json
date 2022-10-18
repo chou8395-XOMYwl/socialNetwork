@@ -1,0 +1,24 @@
+{
+  "name": "socialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controllers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chou8395-XOMYwl/socialNetwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chou8395-XOMYwl/socialNetwork/issues"
+  },
+  "homepage": "https://github.com/chou8395-XOMYwl/socialNetwork#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
